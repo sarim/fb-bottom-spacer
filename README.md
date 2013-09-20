@@ -1,6 +1,6 @@
 fb-bottom-spacer
 ===
-It is a chrome extensions for facebook. It adds space below a post so that chatbox doesn't overlap it. A picture is better than thousand words, so see it live.
+It is a chrome extension for facebook. It adds some space below a post so that chatbox doesn't overlap it. A picture is better than thousand words, so see it live.
 
 ####Before installing fb-bottom-spacer
 
@@ -17,10 +17,10 @@ Now you can comment and chat at the same time.
 
 ##Installation
 
-0. Download the extensions [from here.](http://cl.ly/RVdX)
+0. Download the extension [from here.](http://cl.ly/RVdX)
 0. Chrome will warn you about the file type, choose `Keep`.
 0. Now Right click in the file and Choose `Show in Finder`.
-0. Go to [Chrome Extensions Page](chrome://extensions/).
+0. Go to Chrome Extensions Page. `Gear` -> `Tools` -> `Extensions` or paste this in your addressbar `chrome://extensions/`.
 0. Drag the extension file into chrome.
     ![image](http://f.cl.ly/items/3K451220190937190u2c/fb-bottom-space-install.jpg)
 0. Chrome will ask for permissions, Choose `Add`.
